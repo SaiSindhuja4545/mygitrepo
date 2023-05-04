@@ -1,0 +1,3 @@
+/home/ubuntu/.jenkins/workspace/Development
+
+/home/ubuntu/.jenkins/workspace/Testing
